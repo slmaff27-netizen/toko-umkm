@@ -1,0 +1,27 @@
+[
+    {
+        "kode": "PSN-0001",
+        "waktu": "2026-11-17 17:15",
+        "nama": "salma",
+        "whatsapp": "08123456788",
+        "alamat": "ngasinan, johja",
+        "produk": "Serabi <Notosuman>",
+        "harga": 30000,
+        "jumlah": 4,
+        "total": 120000,
+        "catatan": ""
+    },
+    {
+        "kode": "PSN-0002",
+        "waktu": "2026-11-17 23:12",
+        "nama": "imaaja",
+        "whatsapp": "089898989898",
+        "alamat": "jogjis jaya",
+        "metode_pengambilan": "Kirim kurir",
+        "produk": "Kopi Robusta Lereng Lawu",
+        "harga": 45000,
+        "jumlah": 5,
+        "total": 225000,
+        "catatan": "blabla"
+    }
+]
